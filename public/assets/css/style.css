@@ -1,0 +1,32 @@
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+	margin:20px auto;
+	width: 100%;
+	text-align: center;
+}
+
+img {
+	width: 200px;
+	position: relative;
+	margin: auto;
+
+}
+
+.new-burgers {
+	background-color: green;
+	color: white;
+}
+
+button {
+	color: black;
+}
+
+.done-burgers {
+	background-color: red;
+	color: white;
+}
+
+#text-center{
+	margin-top: 20px;
+}
